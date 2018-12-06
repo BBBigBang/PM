@@ -1,0 +1,3 @@
+this is a test
+it represents that the git repository has been built
+now we will try to deliver it to the remote repository
